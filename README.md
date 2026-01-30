@@ -20,14 +20,7 @@ Android app that automatically detects faces in photos and covers them with fun 
 2. Select a photo → Faces are detected
 3. Tap an emoji → All faces get covered
 4. Save or Share the result
-
-## Available Emojis
-
-| | | |
-|:---:|:---:|:---:|
-| Lemon | Orange | Watermelon |
-| Strawberry | Peach | Kiwi |
-| Grapes | Cherries | |
+5. Tap & hold an emoji in library to choose entirely new one
 
 ## Tech Stack
 
