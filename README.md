@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/app-snapshots.png" alt="facemoji" width="400"/>
+  <img src="/app-snapshots.png" alt="facemoji" width="600"/>
 </p>
 
 # FaceMoji
