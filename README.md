@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/app.png" alt="Wayve Logo" width="200"/>
+</p>
+
 # FaceMoji
 
 Android app that automatically detects faces in photos and covers them with fun fruit emojis. Perfect for protecting children's privacy when sharing photos online.
