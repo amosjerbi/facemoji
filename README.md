@@ -4,7 +4,8 @@
 
 # FaceMoji
 
-Android app that automatically detects faces in photos and covers them with fun fruit emojis. Perfect for protecting children's privacy when sharing photos online.
+Android app that automatically detects faces in photos and covers them with emojis. Perfect for protecting children's privacy when sharing photos online.
+Original idea by Matan Feder https://www.linkedin.com/in/matan-feder/
 
 ## Features
 
