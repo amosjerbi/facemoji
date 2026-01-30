@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/app-snapshots.png" alt="Wayve Logo" width="300"/>
+  <img src="/app-snapshots.png" alt="facemoji" width="400"/>
 </p>
 
 # FaceMoji
